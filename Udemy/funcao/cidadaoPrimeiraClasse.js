@@ -9,7 +9,10 @@ const fun2 = function(){
 }
 
 //armazenar em array
-const array = [function(a){ return a+1 }, fun2, fun1]
+const array = [function(a){
+     return a+1 
+    }, 
+    fun2, fun1]
 
 //armazenar em um atributo de um obj
 

@@ -1,0 +1,17 @@
+#Container{
+    height: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#botao1, #botao2, #botao3 {
+    width: 20%;
+    height: 200px;
+    margin: 5px;
+    background-color:seagreen;
+
+    font-family: sans-serif;
+}
